@@ -10,7 +10,7 @@ This repository contains PLC ladder logic programs, automation experiments, and 
 - SCADA Basics
 
 ## Tools Used
--OpenPLC
+- OpenPLC
 
 ## Projects
 - Motor Start/Stop Control
